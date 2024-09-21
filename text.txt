@@ -1,2 +1,4 @@
 this is the first text file. 
-lorem is just the second text file and   the third text file      is the third text file        
+this is the text's 2nd line.
+This is the text's 3rd line.
+This is the text's 4th line.
