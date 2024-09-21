@@ -1,0 +1,2 @@
+this is the first text file. 
+lorem is just the second text file and   the third text file      is the third text file        
